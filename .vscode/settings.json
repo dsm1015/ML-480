@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./BIRCH_Adaptive_Thresholding"
+    ]
+}
